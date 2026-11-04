@@ -40,3 +40,15 @@ If you find this work useful for your research, please cite:
 The majority of the code has been adapted from previous works:
 - [RAFT](https://github.com/princeton-vl/RAFT)
 - [Softmax Splatting](https://github.com/sniklaus/softmax-splatting)
+
+## License
+
+DFlow's original contributions are released under the [MIT License](LICENSE).
+
+Third-party components retain their original licenses and terms. In
+particular, code adapted from RAFT remains subject to the
+[BSD 3-Clause License](LICENSES/RAFT-BSD-3-Clause.txt). Any code derived from
+[Softmax Splatting](https://github.com/sniklaus/softmax-splatting#license)
+remains subject to the academic-use terms stated by its authors. Datasets,
+pretrained models, and other assets are subject to their respective upstream
+terms.
